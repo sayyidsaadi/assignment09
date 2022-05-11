@@ -1,0 +1,196 @@
+{
+    "studentinfo":[
+        {
+            "name":"Hammad Saadi",
+            "roll": 1,
+            "age": 23,
+            "className": "Five",
+            "subject": "Science",
+            "techSlill":["HTML", "CSS", "JavaScript"],
+            "extraInfo":{
+                "fathersNmae": "Muhammad Ali",
+                "Mother'sName": "Majeda Khatun",
+                "Mobile": 8801810850338
+            }
+        },
+        {
+            "name":"Mohaimin",
+            "roll": 2,
+            "age": 24,
+            "className": "Five",
+            "subject": "Commerce",
+            "techSlill":["HTML", "CSS", "JavaScript", "React"],
+            "extraInfo":{
+                "fathersNmae": "Amir Ali",
+                "Mother'sName": "Farjana Khatun",
+                "Mobile": 8801810850336
+            }
+        },
+        {
+            "name":"Minhaj",
+            "roll": 3,
+            "age": 12,
+            "className": "Five",
+            "subject": "Science",
+            "techSlill":["HTML", "CSS"],
+            "extraInfo":{
+                "fathersNmae": "Shahinur Islam",
+                "Mother'sName": "Shahena Khatun",
+                "Mobile": 8801810850335
+            }
+        },
+        {
+            "name":"Hujayfa",
+            "roll": 4,
+            "age": 18,
+            "className": "Five",
+            "subject": "Arts",
+            "techSlill":["HTML", "CSS", "Bootstrap"],
+            "extraInfo":{
+                "fathersNmae": "Kadir Miah",
+                "Mother'sName": "Shara Khatun",
+                "Mobile": 8801810850345
+            }
+        },
+        {
+            "name":"Robiul Islam",
+            "roll": 5,
+            "age": 17,
+            "className": "Five",
+            "subject": "Science",
+            "techSlill":["HTML", "CSS"],
+            "extraInfo":{
+                "fathersNmae": "Ariful Islam",
+                "Mother'sName": "Majeda Khatun",
+                "Mobile": 8801810850365
+            }
+        },
+        {
+            "name":"Nur Uddin",
+            "roll": 6,
+            "age": 19,
+            "className": "Five",
+            "subject": "Commerce",
+            "techSlill":["HTML", "CSS", "PHP"],
+            "extraInfo":{
+                "fathersNmae": "Abdul Hannan",
+                "Mother'sName": "Halema Khatun",
+                "Mobile": 8801810850331
+            }
+        },
+        {
+            "name":"Abdul Halim",
+            "roll": 7,
+            "age": 12,
+            "className": "Five",
+            "subject": "Science",
+            "techSlill":["HTML", "CSS", "PHP", "Laravel"],
+            "extraInfo":{
+                "fathersNmae": "Asraf",
+                "Mother'sName": "Sayma Khatun",
+                "Mobile": 8801810850333
+            }
+        },
+        {
+            "name":"Shibbir Ahned",
+            "roll": 8,
+            "age": 22,
+            "className": "Five",
+            "subject": "Science",
+            "techSlill":["Mern Stack Developer"],
+            "extraInfo":{
+                "fathersNmae": "Sofqul Islam",
+                "Mother'sName": "Rumana Khatun",
+                "Mobile": 8801810850765
+            }
+        },
+        {
+            "name":"Mizanu Rahman",
+            "roll": 9,
+            "age": 18,
+            "className": "Five",
+            "subject": "Arts",
+            "techSlill":["HTML", "CSS"],
+            "extraInfo":{
+                "fathersNmae": "Atikul Islam",
+                "Mother'sName": "Raziya Khatun",
+                "Mobile": 8801810850334
+            }
+        },
+        {
+            "name":"Mim",
+            "roll": 10,
+            "age": 12,
+            "className": "Five",
+            "subject": "Science",
+            "techSlill":["HTML", "CSS", "JavaScript", "React"],
+            "extraInfo":{
+                "fathersNmae": "Arman Uddin",
+                "Mother'sName": "Fatema Khatun",
+                "Mobile": 8801810850330
+            }
+        }
+    ],
+    "teachersInfo":[
+        {   
+            "id": 1,
+            "name": "Asraful Haque",
+            "Skill": "Mern Stack Developer",
+            "HomeTown": "Dhaka"
+        },
+        {
+            "id": 2,
+            "name": "Jilur Rahman",
+            "Skill": "Full Stack Web Developer",
+            "HomeTown": "Kustia"
+        },
+        {
+            "id": 3,
+            "name": "Asraful Haque",
+            "Skill": "Mern Stack Developer",
+            "HomeTown": "Dhaka"
+        },
+        {
+            "id": 4,
+            "name": "Raju Ahmed",
+            "Skill": "Digital MArketer",
+            "HomeTown": "Sylhet"
+        },
+        {
+            "id": 5,
+            "name": "Jamal Uddin",
+            "Skill": "ICT",
+            "HomeTown": "Sunamganj"
+        },
+        {
+            "id": 6,
+            "name": "Abdul Ahad",
+            "Skill": "Mern Stack Developer",
+            "HomeTown": "Sylhet"
+        },
+        {
+            "id": 7,
+            "name": "Hafizur Rahman",
+            "Skill": "Wordpress",
+            "HomeTown": "Dhaka"
+        },
+        {
+            "id": 8,
+            "name": "Akomol Hasan",
+            "Skill": "PHP Developer",
+            "HomeTown": "Sylhet"
+        },
+        {
+            "id": 9,
+            "name": "Habib Ahmed",
+            "Skill": "Web Design",
+            "HomeTown": "Khulna"
+        },
+        {
+            "id": 10,
+            "name": "Asrab Uddin",
+            "Skill": "Mern Stack Developer",
+            "HomeTown": "Sunamganj"
+        }
+    ]
+}
